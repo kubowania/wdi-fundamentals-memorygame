@@ -32,7 +32,6 @@ h1 {
 	margin: 0;
 }
 
-
 a {
 	font-family: 'Raleway', sans-serif;
 	color: #ffffff;
@@ -87,6 +86,10 @@ color: #f15b31;
 font-weight: 700;
 }
 
+li {
+	list-style: none;
+	margin: 40px 0 0 0;
+}
 footer {
 	text-transform: uppercase;
 	padding: 0 20px;
